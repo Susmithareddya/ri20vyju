@@ -1,0 +1,7 @@
+###### You can write here which packages are necessary to
+run your code ######
+##You can specify the version using '=='. For example:
+numpy==1.21.2
+numpy
+Pillow
+ipywidgets
