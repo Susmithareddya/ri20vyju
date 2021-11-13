@@ -5,3 +5,5 @@ numpy==1.21.2
 numpy
 Pillow
 ipywidgets
+PIL
+matplotlib.pyplot
