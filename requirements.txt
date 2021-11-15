@@ -1,9 +1,7 @@
-###### You can write here which packages are necessary to
-run your code ######
-##You can specify the version using '=='. For example:
+######  packages that are necessary to run the code ######
 numpy==1.21.2
 numpy
 Pillow
 ipywidgets
 PIL
-matplotlib.pyplot
+Need to convert the image into an array by importing numpy
