@@ -5,4 +5,4 @@ setup(name='ri20vyju',
  author='DSSS',
  author_email='susmitha.arumalla@fau.de',
  packages=find_packages(),
- install_requires=['numpy', 'Pillow', 'ipywidgets'])
+ install_requires=['numpy', 'Pillow', 'ipywidgets','cv2'])
