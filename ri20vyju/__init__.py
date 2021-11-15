@@ -1,1 +1,1 @@
-from .function import *
+from ri20vyju import *
